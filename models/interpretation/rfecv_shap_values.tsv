@@ -1,0 +1,16 @@
+	Predictor	Mean absolute SHAP value
+0	IOPg pre-treatment	0.8697609305083183
+1	Corneal resistance factor	0.6009139456780394
+2	Age at initial assesement	0.48316895863270376
+3	Corneal hysteresis	0.4487897455760082
+4	Polygenic risk score	0.42008818183168284
+5	Ethnicity	0.1197797537063812
+6	Spherical equivalent	0.0679641716890797
+7	Total cholesterol	0.06368921325692171
+8	HbA1c	0.0561913411066107
+9	Corneal hysteresis inter-eye difference	0.052756701385103626
+10	Townsend deprivation index	0.044556694719464975
+11	Diastolic blood pressure	0.040622926901766644
+12	Urinary sodium-creatinine ratio	0.038501404955179785
+13	IOPg pre-treatment inter-eye difference	0.027153331076903195
+14	eGFR serum creatinine	0.018190337895286637

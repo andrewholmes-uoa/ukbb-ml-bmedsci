@@ -1,0 +1,96 @@
+	Predictor	Mean absolute SHAP value
+0	IOPg pre-treatment	0.9319991830565861
+1	Corneal resistance factor	0.7030945803663868
+2	Corneal hysteresis	0.5004150373736831
+3	Age at initial assesement	0.4774261350385619
+4	Polygenic risk score	0.4299948237716609
+5	Ethnicity	0.11647690086442541
+6	Spherical equivalent	0.07638251220839037
+7	Corneal hysteresis inter-eye difference	0.06780240850309367
+8	Exercise (summed MET minutes per week)	0.053066684409792876
+9	Albumin-creatinine ratio	0.04410778450378574
+10	Diastolic blood pressure	0.04081500520342852
+11	Total cholesterol	0.04060219471036818
+12	Townsend deprivation index	0.03972726774568473
+13	Daytime sleeping frequency	0.03737982752372519
+14	Dyslipidaemia (baseline)	0.03568070918593897
+15	HbA1c	0.03503579758231224
+16	Systemic immune inflammation index	0.03258785081340225
+17	Poor oral health	0.032428233970303685
+18	IOPg pre-treatment inter-eye difference	0.03167373688714719
+19	Tea intake	0.031324480666326
+20	Plasma testosterone	0.030711512626357115
+21	Plasma albumin	0.029969657973129532
+22	Urinary sodium-creatinine ratio	0.029658573432109064
+23	eGFR serum creatinine	0.029363564522776525
+24	Total household income	0.027137466871095573
+25	Alcohol intake	0.02661112188213498
+26	Plasma urate	0.026265494518774156
+27	Plasma total bilirubin	0.02514080522337967
+28	Tinnitus frequency (self-reported)	0.02298512985131313
+29	Body mass index	0.02290671038020639
+30	C-reactive protein	0.021433604404766077
+31	Triglycerides	0.019656326213443417
+32	Hypertension (baseline)	0.017670311256980455
+33	Normal sleep duration	0.017259922892786314
+34	Systolic blood pressure	0.01710697501898098
+35	PM2.5 exposure	0.01659312494744677
+36	Plasma glucose	0.015045261506006798
+37	Speech reception threshold	0.01433141501335068
+38	Plasma Vitamin D	0.014192300644167563
+39	Hearing difficulty (self-reported)	0.014174517667219833
+40	HDL	0.012598002090955712
+41	Diet score	0.01250958422011636
+42	Arterial stiffness index	0.010266113119083977
+43	LDL	0.00986798058331352
+44	Multivitamin supplementation	0.00953427827836944
+45	Anxiety disorder (baseline)	0.008712042337171239
+46	Irritable bowel syndrome (baseline)	0.008617780822974557
+47	Plasma oestradiol	0.008112281408072537
+48	Diabetes mellitus (baseline)	0.005905180952504038
+49	Salt added to food	0.005389068695771836
+50	Migraine (baseline)	0.0046758696255453855
+51	Asthma (baseline)	0.004389705699337966
+52	Calcium channel blocker	0.004111901114322325
+53	Education	0.0040994664396498464
+54	Atopic dermatitis (baseline)	0.003697639914403644
+55	Iron supplementation	0.0036102629673439917
+56	Current smoking frequency	0.003539662596568474
+57	Sleep apnoea (baseline)	0.0034805797163403114
+58	Insomnia frequency	0.0034009140207592026
+59	Thyrotoxicosis (baseline)	0.0032502973906309946
+60	Beta blocker	0.003100734138845653
+61	Hypotension (baseline)	0.00287803927745816
+62	Past smoking frequency	0.0024423996088813443
+63	Vasomotor or allergic rhinitis (baseline)	0.002306223590200594
+64	Chronic sinusitis (baseline)	0.0019124780833131847
+65	SNRI	0.0016921616286240608
+66	Urban residence	0.0015555107738412543
+67	Private healthcare utilisation	0.001487183274233975
+68	Diuretic	0.0014609629877582581
+69	Snoring	0.0014277428409263904
+70	Statin	0.0012973784024831985
+71	Glucosamine supplementation	0.0011169992303184204
+72	Rheumatoid arthritis (baseline)	0.0010919865913542536
+73	Rosacea (baseline)	0.001048540865576315
+74	Hypothyroidism (baseline)	0.0009567783331133755
+75	Psoriasis (baseline)	0.0009451958670305525
+76	Caffeinated coffee drinker	0.0008131880247878018
+77	Chronic kidney disease (baseline)	0.000800365846783988
+78	COPD (baseline)	0.0006761007867945303
+79	Calcium supplementation	0.0006441377368499643
+80	Vitamin C supplementation	0.0005887737311339133
+81	ACE inhibitor	0.0005265805879851694
+82	Helicobacter pylori infection (baseline)	0.0005265104449181728
+83	Metformin	0.0004808581671333574
+84	Angiotensin receptor blocker	0.00041002781084554125
+85	Selenium supplementation	0.00028123426729230705
+86	Sex	0.00022157857109302064
+87	Peripheral vascular disease (baseline)	0.00020507084371906216
+88	SSRI	0.00017651755476487947
+89	Atrial fibrillation or flutter (baseline)	8.238575835613024e-05
+90	Conductive and sensorineural hearing loss (baseline)	6.797343886172658e-05
+91	Other hearing loss (baseline)	0.0
+92	Gingivitis or periodontitis (baseline)	0.0
+93	Dementia (baseline)	0.0
+94	Sjogren syndrome (baseline)	0.0
