@@ -2,3 +2,5 @@
 Andrew Valentin Holmes
 
 Bachelor of Medical Science (Honours), The University of Auckland, 2024
+
+Supervisors: Dr William Schierding & Prof Helen Danesh-Meyer
